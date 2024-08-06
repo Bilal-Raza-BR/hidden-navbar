@@ -164,7 +164,7 @@ background-size: cover;
         color: white;
         border-radius: 0px 20px 20px 0px ;
         text-align: center;
-        /* display: none; */
+        display: block;
     }
     
     .v-nav h1{
